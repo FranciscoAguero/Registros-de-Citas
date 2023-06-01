@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="1376" alt="Captura de pantalla 2023-06-01 a la(s) 1 15 23 p  m" src="https://github.com/FranciscoAguero/Registros-de-Citas/assets/131687774/5d4fcf58-1345-4f07-b6fd-16f9dd0d9d0d">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
